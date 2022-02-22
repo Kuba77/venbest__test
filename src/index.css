@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 10px;
+  background-image: url(./shattered-island.gif);
+  color: #fff;
+  font-family: 'Rubik', sans-serif;
+}
+
